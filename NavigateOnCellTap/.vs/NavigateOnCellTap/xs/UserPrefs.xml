@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{92A6785A-349E-4633-A240-F0A497C2DBC4}|Default">
+  <MonoDevelop.Ide.ItemProperties.NavigateOnCellTap automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.954ED523-1D14-4F4D-9B9F-64EDAA4912CC" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigateOnCellTap/MyViewController.cs">
+    <Files>
+      <File FileName="NavigateOnCellTap/packages.config" Line="1" Column="1" />
+      <File FileName="NavigateOnCellTap/Info.plist" />
+      <File FileName="NavigateOnCellTap/MyViewController.cs" Line="22" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
